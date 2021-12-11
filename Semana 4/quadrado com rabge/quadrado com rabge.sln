@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "quadrado com rabge", "quadrado com rabge.pyproj", "{8CC45CD9-F254-4C79-83C9-9523038230B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC45CD9-F254-4C79-83C9-9523038230B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC45CD9-F254-4C79-83C9-9523038230B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D13ACD9-ADAB-4DCA-BD38-3E8C934C73CE}
+	EndGlobalSection
+EndGlobal

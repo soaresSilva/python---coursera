@@ -11,7 +11,7 @@ if res==2 or res==1:
 else:
     print("nao primo")
 
-print(res)
+
 
 
 

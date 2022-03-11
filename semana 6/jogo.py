@@ -107,6 +107,3 @@ if jogo == 1:
 else:
     print("Voce escolheu um campeonato!")
     campeonato()
-
-        
-        
